@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>It Is Unique Official</ShortName>
+  <Description>Search It Is Unique Official for unique content and resources</Description>
+  <Url type="text/html" template="https://www.itisuniqueofficial.com/search?q={searchTerms}"/>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="48" height="48" type="image/x-icon">https://www.itisuniqueofficial.com/favicon.ico</Image>
+</OpenSearchDescription>
